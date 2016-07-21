@@ -1,0 +1,25 @@
+body {
+	margin-left: 300px;
+	margin-top: 70px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: lightblue;
+}
+
+img {
+	border-radius: 10px;
+
+}
+
+h2 {
+	text-shadow: 0 0 3px #FF0000;
+	animation: blinker 1s linear infinite;
+
+}
+
+#jim {
+	float: right;
+	position: relative;
+	right: 200px;
+	bottom: 60px;
+	border-radius: 0px;
+}
